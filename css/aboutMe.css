@@ -1,0 +1,22 @@
+.aboutMe {
+    max-width: 600px;
+    padding: 20px;
+    box-shadow: 2px 2px 8px #ccc;
+    margin: 20px auto;
+}
+
+.aboutMe__header {
+    border-bottom: 5px ridge rgb(35 135 113);
+    border-top: 5px ridge rgb(35 135 113);
+    padding: 20px;
+    margin-top: 35px;
+    color: rgb(35 135 113);
+}
+
+.aboutMe__paragraph {
+    color: #573bc9;
+}
+
+.aboutMe__paragraph--highlighted {
+    color: aqua;
+}

@@ -1,0 +1,29 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.body {
+    font-family: "Lato", sans-serif;
+    max-width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+    line-height: 1.5;
+    color: #333;
+    padding: 20px;
+}
+
+.dark {
+    color: #eee;
+    background-color: #222;
+}
+
+.footer {
+    font-size: 14px;
+    padding: 20px;
+    background-color: rgb(35 135 113);
+    color: #eee;
+}

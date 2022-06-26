@@ -1,0 +1,26 @@
+.profession {
+    max-width: 600px;
+    padding: 20px;
+    box-shadow: 2px 2px 8px #ccc;
+    margin: 20px auto;
+}
+
+.profession--dark {
+    background-color: #070b01db;
+}
+
+.profession__header {
+    border-bottom: 5px ridge rgb(35 135 113);
+    border-top: 5px ridge rgb(35 135 113);
+    padding: 20px;
+    margin-top: 35px;
+    color: rgb(35 135 113);
+}
+
+.profession--dark .profession__paragraph {
+    color: #ffffff;
+}
+
+.profession__paragraph--important {
+    color: rgb(235 174 55);
+}

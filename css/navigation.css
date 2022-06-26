@@ -1,0 +1,29 @@
+.navigation {
+    padding: 20px;
+    font-size: 20px;
+}
+
+.navigation__list {
+    list-style: none;
+    text-align: left;
+    
+}
+
+.navigation__link {
+    color: rgb(235 174 55);
+    text-decoration: none;
+}
+
+.navigation__link:focus {
+    outline: 2px solid currentColor;
+}
+
+.navigation__link:hover {
+    color: rgb(35 135 113);
+    border-bottom: 1px solid rgb(35 135 113);
+    outline: none;
+}
+
+.navigation__link:active {
+    color: rgb(25, 250, 0);
+}

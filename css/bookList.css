@@ -1,0 +1,42 @@
+.bookList__header {
+    border-bottom: 5px ridge rgb(35 135 113);
+    border-top: 5px ridge rgb(35 135 113);
+    padding: 20px;
+    margin-top: 35px;
+    color: rgb(35 135 113);
+}
+
+.bookList__table {
+    border-collapse: collapse;
+    max-width: 600px;
+    padding: 20px;
+    margin: 20px auto;
+    box-shadow: 2px 2px 8px #ccc;
+}
+
+.bookList__tableCaption {
+    caption-side: bottom;
+    text-align: right;
+    margin-top: 20px;
+}
+
+.bookList__tableCell {
+    border: 1px solid #ccc;
+    padding: 20px;
+    text-align: center;
+    
+}
+
+.bookList__tableCell--header {
+    background-color: #070b01db;
+    color: #fff;
+    font-weight: normal;
+}
+
+.bookList__tableRow:hover {
+    background-color: rgb(235 174 55);
+}
+
+.bookList__container {
+    overflow-x: auto;
+}
