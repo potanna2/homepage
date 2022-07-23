@@ -3,6 +3,11 @@
     padding: 20px;
     box-shadow: 2px 2px 8px #ccc;
     margin: 20px auto;
+    background-color: rgb(24 54 10 / 75%)
+}
+
+.aboutMe--dark {
+    background-color: #070b01db;
 }
 
 .aboutMe__header {
@@ -14,7 +19,7 @@
 }
 
 .aboutMe__paragraph {
-    color: #573bc9;
+    color: white;
 }
 
 .aboutMe__paragraph--highlighted {

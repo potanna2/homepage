@@ -18,7 +18,13 @@
     caption-side: bottom;
     text-align: right;
     margin-top: 20px;
+    font-size: 14px;
+    padding: 20px;
+    background-color: rgb(24 54 10 / 75%);
+    color: #eee;
+    max-width: 600px;
 }
+
 
 .bookList__tableCell {
     border: 1px solid #ccc;
@@ -28,7 +34,7 @@
 }
 
 .bookList__tableCell--header {
-    background-color: #070b01db;
+    background-color: rgb(24 54 10 / 75%);
     color: #fff;
     font-weight: normal;
 }

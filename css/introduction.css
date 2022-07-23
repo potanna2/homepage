@@ -1,7 +1,3 @@
-.introduction {
-    padding: 20px;
-}
-
 .introduction__header {
     border-bottom: 5px ridge rgb(35 135 113);
     border-top: 5px ridge rgb(35 135 113);
@@ -15,6 +11,7 @@
     border: 1px ridge rgb(35 135 113);
     color: rgb(35 135 113);
     background-color: white;
+    margin-bottom: 20px;
 }
 
 .introduction__link {
@@ -44,4 +41,16 @@
 
 .introduction__important {
     color: rgb(222 174 80);
+}
+
+.introduction__paragraph {
+    color:white;
+}
+
+.introduction__article {
+    max-width: 1000px;
+    padding: 20px;
+    box-shadow: 2px 2px 8px #ccc;
+    margin: 20px auto;
+    background-color: rgb(24 54 10 / 75%)
 }

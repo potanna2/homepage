@@ -7,7 +7,7 @@ button.addEventListener("click", () => {
 
 button.addEventListener("click", () => {
     if (button.innerText === "Włącz ciemny motyw") {
-        button.innerText = "Wyłącz ciemny motyw";
+        button.innerText = "Włącz jasny motyw";
     } else {
         button.innerText = "Włącz ciemny motyw"
     }

@@ -14,16 +14,17 @@ html {
     line-height: 1.5;
     color: #333;
     padding: 20px;
+    background: center / cover no-repeat url(../images/bright_background.JPG);
 }
 
 .dark {
     color: #eee;
-    background-color: #222;
+    background: center / cover no-repeat url(../images/dark_background.JPG);
 }
 
 .footer {
     font-size: 14px;
     padding: 20px;
-    background-color: rgb(35 135 113);
+    background-color: rgb(24 54 10 / 75%);
     color: #eee;
 }
