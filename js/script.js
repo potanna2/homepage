@@ -1,14 +1,17 @@
-let button = document.querySelector(".introduction__button");
-let body = document.querySelector(".body");
+{
+    const toggleBackground = () => {
+        const body = document.querySelector(".body");
+        const changeMotif = document.querySelector(".changeMotif");
 
-button.addEventListener("click", () => {
-    body.classList.toggle("dark");
-});
+        body.classList.toggle("dark");
+        changeMotif.innerText = body.classList.contains("dark") ? "jasny" : "ciemny";
+    };
 
-button.addEventListener("click", () => {
-    if (button.innerText === "Włącz ciemny motyw") {
-        button.innerText = "Włącz jasny motyw";
-    } else {
-        button.innerText = "Włącz ciemny motyw"
-    }
-});
+    const init = () => {
+        const button = document.querySelector(".changeBackgroundButton");
+        button.addEventListener("click", toggleBackground);
+    };
+
+    init();
+}
+

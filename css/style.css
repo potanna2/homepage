@@ -22,6 +22,13 @@ html {
     background: center / cover no-repeat url(../images/dark_background.JPG);
 }
 
+.changeBackgroundButton {
+    border: 1px ridge rgb(35 135 113);
+    color: rgb(35 135 113);
+    background-color: white;
+    margin-bottom: 20px;
+}
+
 .footer {
     font-size: 14px;
     padding: 20px;

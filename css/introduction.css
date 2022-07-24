@@ -6,13 +6,6 @@
     color: rgb(235 174 55);
 }
 
-.introduction__button {
-    border: 1px ridge rgb(35 135 113);
-    color: rgb(35 135 113);
-    background-color: white;
-    margin-bottom: 20px;
-}
-
 .introduction__link {
     color: rgb(222 174 80);
     text-decoration: none;
