@@ -12,13 +12,14 @@ html {
     margin: 0 auto;
     text-align: center;
     line-height: 1.5;
-    color: #333;
+    color: rgb(255, 255, 255);
     padding: 20px;
     background: center / cover no-repeat url(../images/bright_background.JPG);
+    font-size: 18px;
 }
 
 .dark {
-    color: #eee;
+    color: rgb(184 255 244);
     background: center / cover no-repeat url(../images/dark_background.JPG);
 }
 

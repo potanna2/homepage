@@ -1,13 +1,9 @@
-.aboutMe {
+.aboutMe__article {
     max-width: 600px;
     padding: 20px;
     box-shadow: 2px 2px 8px #ccc;
     margin: 20px auto;
     background-color: rgb(24 54 10 / 75%)
-}
-
-.aboutMe--dark {
-    background-color: #070b01db;
 }
 
 .aboutMe__header {
@@ -16,12 +12,9 @@
     padding: 20px;
     margin-top: 35px;
     color: rgb(35 135 113);
+    font-size: 30px;
 }
 
-.aboutMe__paragraph {
-    color: white;
-}
-
-.aboutMe__paragraph--highlighted {
-    color: aqua;
+.aboutMe__textColor {
+    color: rgb(235 174 55);
 }

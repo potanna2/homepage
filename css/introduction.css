@@ -4,6 +4,7 @@
     padding: 20px;
     margin-top: 35px;
     color: rgb(235 174 55);
+    font-size: 40px;
 }
 
 .introduction__link {
@@ -33,10 +34,6 @@
 
 .introduction__important {
     color: rgb(222 174 80);
-}
-
-.introduction__paragraph {
-    color:white;
 }
 
 .introduction__article {

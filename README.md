@@ -1,9 +1,10 @@
-# Anna Potasznikow - moja strona
+# Homepage
+HI! 
 
 ## Demo
 
 https://potanna2.github.io/homepage/
 
-## Opis
+
 
 Strona realizowana w ramach kursu Frontend developer w youcode :)

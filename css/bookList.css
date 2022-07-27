@@ -4,6 +4,7 @@
     padding: 20px;
     margin-top: 35px;
     color: rgb(35 135 113);
+    font-size: 30px;
 }
 
 .bookList__table {
@@ -30,6 +31,8 @@
     border: 1px solid #ccc;
     padding: 20px;
     text-align: center;
+    background-color: rgb(202 255 127 / 41%);
+    color: black;
     
 }
 
