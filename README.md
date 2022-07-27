@@ -14,7 +14,4 @@ You can found out something about me, my interests and working life. I try to re
 This page is created as a part of Frontend Developer course in YouCode.
 
 ## Technologies
-HTML
-CSS
-BEM
-JavaScipt
+HTML / CSS / BEM / JavaScipt
